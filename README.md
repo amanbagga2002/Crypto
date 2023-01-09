@@ -16,7 +16,7 @@ The major objective behind this project is to help Crypto Geeks keep track of th
 
 
 ## **4. Live link**
-Link:https://manmeet-crypto-tracker.netlify.app/
+Link:https://amanbagga-cryptotracker.netlify.app/
 
 
 ## **5. Screenshot of the Interface**
